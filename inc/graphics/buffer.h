@@ -1,6 +1,7 @@
 #pragma once
 
 #include <vendor/GLAD/glad.h>
+#include <stddef.h>
 
 // Vertex buffer
 typedef struct vertex_buffer
